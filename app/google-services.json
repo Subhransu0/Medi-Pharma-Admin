@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464715197767",
+    "project_id": "medi-farma",
+    "storage_bucket": "medi-farma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464715197767:android:763fb2ac739ad17faa7062",
+        "android_client_info": {
+          "package_name": "com.example.adminpharmarcyapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0o35g7cNrVoYGCjICshNxGkTppVz0WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
